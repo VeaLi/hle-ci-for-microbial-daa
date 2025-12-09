@@ -1,0 +1,1 @@
+## This repository contains all data and scripts required to reproduce the results of the study, "The Use of Confidence Intervals in Differential Abundance Analysis of Microbiome Data."
